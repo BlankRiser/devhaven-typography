@@ -1,0 +1,27 @@
+{
+  "name": "@devhaven/typography",
+  "version": "0.0.1",
+  "description": "Tailwind utilities for a better typography experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlankRiser/devhaven-typography.git"
+  },
+  "keywords": [
+    "tailwindCss",
+    "plugin",
+    "tailwindcss-plugin"
+  ],
+  "author": "BlankRiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlankRiser/devhaven-typography/issues"
+  },
+  "homepage": "https://github.com/BlankRiser/devhaven-typography#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
